@@ -1,0 +1,17 @@
+.cast-item {
+  list-style-type: none;
+  margin: 15px;
+}
+.cast-image {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+.name-1{
+    font-size: 10px;
+    font-weight: bold;
+}
+.name-2{
+    font-size: 10px;
+    font-weight: 300;
+}

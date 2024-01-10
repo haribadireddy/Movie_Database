@@ -1,0 +1,52 @@
+.nav-container {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-heading {
+  color: crimson;
+  padding-left: 30px;
+  font-family: 'Georgia';
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-items-list {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  padding-left: 15px;
+  font-family: 'roboto';
+  font-size: 15px;
+  color: ivory;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+.search-container {
+  background-color: white;
+  margin-right: 30px;
+  display: flex;
+  align-items: center;
+}
+.search-box {
+  width: 15vw;
+  height: 3.5vh;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+}
+.search-icon {
+  background-color: lightgray;
+  height: 25px;
+  width: 25px;
+}
+.search-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
